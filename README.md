@@ -9,9 +9,47 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  - Procure por **GTP - Análise de Atendimento** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
  - Após a instalação da extensão, siga os passos abaixo;
  
- # Como fazer a análise do atendimento?
+  
+# Introdução
+O GPT (Transformador pré-treinado generativo) é um modelo de IA de terceira geração desenvolvido pela empresa OpenAI É uma rede neural de grande escala que você pode usar para gerar texto e código.
+
+Existem quatro modelos principais que podem executar tarefas diferentes: analisar materiais de texto de vários níveis de dificuldade, fornecer respostas a perguntas, otimizar texto para tarefas de SEO e SMM, categorizar texto em tabelas, ajudar no brainstorming, editar e traduzir texto, trabalhar com código e tarefas matemáticas e conversas de suporte sobre qualquer tópico específico.
+
+# Crie uma conta
+Vá para OpenAI e crie uma conta. Clique em Inscrever-se, insira seu endereço de e-mail e clique em Continuar ou prossiga com sua conta do Google ou da Microsoft.
+
+![image](https://user-images.githubusercontent.com/34819624/229831382-cf004d80-967f-492f-9886-0859226cd72e.png)
+
+
+Se você digitou seu endereço de e-mail, digite uma senha na próxima janela. Você receberá um e-mail de confirmação em sua caixa de entrada. Clique em Verificar no e-mail e digite seu nome e o nome da sua organização.
+
+Digite seu número de telefone e um código de confirmação será enviado a ele via SMS. Digite o código e faça login na sua conta.
+
+Antes de escolher um número de telefone para usar, verifique a lista de países e territórios suportados.
+
+# Copie sua chave de API
+No canto superior direito, clique em seu avatar e selecione “Gerenciar conta”.
+
+![image](https://user-images.githubusercontent.com/34819624/229832058-dcb3a2cf-6884-4118-9099-59b8d1bb1762.png)
+
+
+
+
+Vá para a guia "Chaves de API", clique em Criar nova chave secreta e copie sua chave.
+
+Você precisa salvar uma chave em seu dispositivo porque não pode copiar a mesma chave nesta página uma segunda vez. Se você perder a chave, precisará gerar uma nova.
+
+![image](https://user-images.githubusercontent.com/34819624/229832283-cefc75dc-c401-43d9-8974-31d1aeb212f6.png)
+
+
+# Como fazer a análise do atendimento?
  
-  - Selecione o chatbot de atendimento, após isso, a tela vai ficar com os itens abaixo:
+   Após realizado os procedimentos acima, adicione a chave no campo abaixo e clicar em salvar **Botão com imagem de um disquete**:
+   
+   ![image](https://user-images.githubusercontent.com/34819624/229830603-0e2e4dc6-02bc-4586-8173-317d72cc99cf.png)
+
+ 
+  - Depois de salvar as configurações mencionadas acima, selecione o chatbot de atendimento, após isso, a tela vai ficar com os itens abaixo:
   
    ![image](https://user-images.githubusercontent.com/34819624/229402178-857ac26c-391e-49c7-a2f8-4320986549df.png)
 
