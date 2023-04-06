@@ -84,7 +84,7 @@ Você também terá uma cópia dessa analise em um relatório personalizado.
 
  Aqui você também pode conferir o video dele funcionando 👇🏻
 
- https://youtu.be/sCALcnNAMVE
+ https://youtu.be/ZJB_NJkMqiA
 
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
  
