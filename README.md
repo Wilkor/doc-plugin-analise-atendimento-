@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-analise-atendimento-/assets/34819624/abb35825-69a8-4b1f-abd4-e63d34fee881)
 
 # Como utilizar a extensão Análise de Atendimento?
 
