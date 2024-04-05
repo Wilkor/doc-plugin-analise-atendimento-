@@ -20,6 +20,7 @@ Vá para OpenAI e crie uma conta. Clique em Inscrever-se, insira seu endereço d
 
 ![image](https://user-images.githubusercontent.com/34819624/229831382-cf004d80-967f-492f-9886-0859226cd72e.png)
 
+OBS: Para usar essa extensão, você precisa ter um conta **PAGA na openAI**
 
 Se você digitou seu endereço de e-mail, digite uma senha na próxima janela. Você receberá um e-mail de confirmação em sua caixa de entrada. Clique em Verificar no e-mail e digite seu nome e o nome da sua organização.
 
